@@ -14,16 +14,16 @@ This website will also handle how to authenticate the user or how to add a user.
     • Contact Us
 
 
-Features of the project:
+# Features of the project:
 
-Home
+Home<br>
 You can use test data for the first time. You can watch all the available courses that you want to buy from the website along with their name and rate or price list. Also you can add the product that you want to buy in your cart.
 
-Categories
+Categories<br>
 You can see number of different option here where you can select the type of course you are looking for as if you want to study machine learning you can select Data Science if you want to learn C, C++ or Java or any other language you can select the Programming Languages option also if you want to learn how game works how to develop them you can select Game Development section and many more options are there.
 
-About Us 
+About Us<br>
 You can see about the details of the company from it this all started in year this project in launched in the market along with the partnership brand. What we offers. How many branches we have all over India
 
-Contact Us 
+Contact Us<br>
 You can see the dialogue box where you can fill your details like Name, Email address, Phone number and the query that you regarding the product that you want to buy.
