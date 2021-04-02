@@ -7,7 +7,7 @@ In the first project, we will learn to create an end to end website with contact
 This website will also handle how to authenticate the user or how to add a user. With the help of the project, you will learn how to use the built-in authentication system of Django. For this project, we are going to use the Virtual Studio Code IDE.
 
 
-Operations:
+# Operations:
     • Home
     • About Us 
     • Categories 
